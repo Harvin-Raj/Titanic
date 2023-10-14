@@ -1,4 +1,4 @@
 # Titanic
 
 
-Predicting how amny passengers survived in Titanic ship incident.
+Predicting how many passengers survived in Titanic ship incident.
